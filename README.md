@@ -3,7 +3,6 @@
 I'm Francisco Simões, a second-year Computer Science student at Instituto Superior Técnico in Lisbon, Portugal.
 
 - 🏃🏊 I enjoy staying active through running and swimming.
-- 🎮 I love playing video games in my free time.
 - 🎧 Music is always part of my day, especially while coding.
 - 📫 You can reach me at franciscojrs210@gmail.com
 
